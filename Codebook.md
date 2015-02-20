@@ -136,6 +136,14 @@ The tidy data set produced by running the script in this repo merges the train a
 
 Part 3: Variables Used in Tidy_Data Set
 =======================================
+##### Activities:
+* 1 WALKING
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING
+
 
 ##### The Column names for the data set:
 
