@@ -1,4 +1,4 @@
-run_analysis function () <- {
+run_analysis <- function() {
 
     ## Download the file into your working directory ("Curl" method for use on Mac)
         download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", "data", method="curl")
