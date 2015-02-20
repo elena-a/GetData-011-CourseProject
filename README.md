@@ -23,4 +23,4 @@ Running the script:
 * Load the script so you can call it, which can be done with the command : source("run_analysis.R")
 * Call the function by typing run_analysis()
 * This will create a txt file with a tidy data set
-* The data can be read with : data <- read.table("tidy_data.txt", header=TRUE)
+* The data can be read with : read.table("tidy_data.txt", header=TRUE)
